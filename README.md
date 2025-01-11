@@ -1,1 +1,3 @@
 # Ohjelmistokehityksen-sovellusprojekti
+
+OAMK kurssin Ohjelmistokehityksen sovellusprojektin toteutus
